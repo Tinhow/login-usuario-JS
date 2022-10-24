@@ -72,3 +72,12 @@ header {
     color: #fff;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a :hover{
+    color: blue;
+    text-decoration: underline;
+}
